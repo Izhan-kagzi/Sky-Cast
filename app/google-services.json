@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424158972271",
+    "project_id": "sky-cast-87132",
+    "storage_bucket": "sky-cast-87132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424158972271:android:179d3fe13d8151f4be809a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVyEn63GT2IwJnLufz1wU9msVDtypTOTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
